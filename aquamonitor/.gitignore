@@ -1,0 +1,4 @@
+__pycache__/
+*.env
+data/sensor_readings/*.csv
+notebooks/*.ipynb_checkpoints/
